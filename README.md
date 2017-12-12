@@ -1,28 +1,15 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Business Casual](http://startbootstrap.com/template-overviews/business-casual/)
+Ability-Exchange
 
-[Business Casual](http://startbootstrap.com/template-overviews/business-casual/) is a multipurpose website theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features a landing page, about page, blog page, and a contact page along with various custom styles and components.
+系統介紹：
 
-## Getting Started
+我們想到台科的優勢應該就是每個系、每個人都具備不同的 專業能力，也可能是個人的興趣或專長，希望透過這個平台 能讓台科的學生發揮自己的專長，能跟其他人教學相長，不需要花大錢請家教或補習也可以學到新的技能，亦可透過交換彼此的專長獲得新的視野，擴展不同領域的人脈。
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/business-casual/)
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-business-casual.git`
-* Fork the repo
-* Your must enter your database information and your email in form-handler.php - if you don't have a database, that's fine.  Edit contact.html to direct the form to form-handler-nodb.php and emails will be sent with no database writes.
 
-## Bugs and Issues
+開發動機：　
+1.不想花錢學東西
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-business-casual/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/business-casual/).
+我們有時候都會想學某樣知識、技能，或是想獲得某方面的前人經歷，大多數的人並不會想因此而花大錢補習、請家教，更可能因為太麻煩而放棄學習的夢。然而，自己可能也有大筆才藝，想藉此和別人交換自己想學的東西。
 
-## Creator
+2.一舉兩得 
 
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
-
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-business-casual/blob/gh-pages/LICENSE) license.
+教學相長之下，自己專業的地方更厲害，也獲得他人的幫助學到自己想學的。
